@@ -1,7 +1,11 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Área de Jornalismo
+* Área de Entretenimento
+* Plataforma de Comentários
+* Tsuru: Plataforma como serviço
+* Plataforma de Interatividades
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +13,44 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+### Resumo
+
+Diego Castro
+castroc.diego@gmail.com
+
+Rio de Janeiro - RJ
+
+Desenvolvedor web com foco em tecnologias livres, embora não me limitando a elas. Com mais de 3 anos de experiência em aplicações web, como Wordpress, Magento, Django e diversos frameworks PHP. Fora o desenvolvimento faço o ocasional DevOPS, desde configurar servidores web com LAMP ou LEMP stack à Continuous Integration e Delivery com Jenkins, Ansible ou Fabric.
+
+Busco sempre aprender novas tecnologias, não apenas por serem novas mas para ter um melhoramento contínuo de meu workflow e conhecimento.
+
+Sou membro fundador da comunidade de linux [Tux-CE](https://groups.google.com/d/forum/tuxce). Participei ativamente da organização de eventos, palestras e installfests do Kurumin ao Ubuntu. Atualmente não participo ativamente de nenhum grupo de discussão, limitando minha atividade a comunidades no reddit sobre programação e it em geral.
+
+Fora t.i, sou apaixonado por meditação e estudo de religiões comparadas. Pratico 1h de meditação diária, as vezes mais quando a mente deixa. Só assim pra aguentar o estresse de prazos corridos e manter a mente tranquila pra aprender novas tecnologias!
+
+#### Experiência Profissional
+
+* 05/2012 - presente __Pura Comunicação__
+	* Analista de Sistemas.
+	* Desenvolvimento de web apps utilizando PHP e seus vários frameworks como Zend, Codeigniter, Laravel e Symfony.
+	* Ecommerce com Magento da [RYGY](http://loja.rygy.com.br/), [Dona Coisa](http://www.donacoisa.com.br/loja/) e [BoBAGS](http://bobags.com.br/).
+	* Administração dos servidores web da empresa utilizando, linux, ansible e jenkins.
+	* Aplicação do git para controle de versão dos projetos.
+	* Continuous Delivery com jenkins + ansible.
+
+* 2010 - presente __SA Consultoria Industrial__
+	* DevOPS
+	* Desenvolvimento do website utilizando Wordpress e manutenção do servidor de hospedagem.
+	* Sistema de planejamento de mercado para indústrias de vestuário com previsão de vendas de cada coleção, feito em Django.
+
+* 03/2011 - 05/2011 __Deway__
+	* Estágio de web developer
+	* HTML, CSS, Python, Django, PHP, MySQL e POSTGRESQL.
+
+#### Conhecimentos
+
+* Possuo conhecimentos em SQL, ORM django e doctrine, Design Patterns, Continuous Integration (jenkins), Continuous Delivery (ansible e fabric), controle de versão com GIT, HTML5, CSS, Javascript e Jquery, MVC, OOP,  PHP, Python e os frameworks Django, Zend, Codeigniter, Symfony e Laravel, ecommerce com Magento.
+* Idiomas: português e inglês fluentes.
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
