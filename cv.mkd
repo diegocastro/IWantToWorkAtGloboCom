@@ -28,6 +28,14 @@ Sou membro fundador da comunidade de linux [Tux-CE](https://groups.google.com/d/
 
 Fora t.i, sou apaixonado por meditação e estudo de religiões comparadas. Pratico 1h de meditação diária, as vezes mais quando a mente deixa. Só assim pra aguentar o estresse de prazos corridos e manter a mente tranquila pra aprender novas tecnologias!
 
+#### Formação
+
+* 09/2014 Caelum
+	* Curso de Desenvolvimento Ágil com Scrum.
+
+* 03/2011 - presente Estácio
+	* Bacharelado em Sistemas de Informação.
+
 #### Experiência Profissional
 
 * 05/2012 - presente __Pura Comunicação__
