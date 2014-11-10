@@ -57,7 +57,7 @@ Fora t.i, sou apaixonado por meditação e estudo de religiões comparadas. Prat
 
 #### Conhecimentos
 
-* Possuo conhecimentos em SQL, ORM django e doctrine, Design Patterns, Continuous Integration (jenkins), Continuous Delivery (ansible e fabric), controle de versão com GIT, HTML5, CSS, Javascript e Jquery, MVC, OOP,  PHP, Python e os frameworks Django, Zend, Codeigniter, Symfony e Laravel, ecommerce com Magento.
+* Possuo conhecimentos em SQL, ORM django e doctrine, Design Patterns, Continuous Integration (jenkins), Continuous Delivery (ansible e fabric), controle de versão com GIT e git flow, HTML5, CSS, Javascript e Jquery, MVC, OOP,  PHP, Python e os frameworks Django, Zend, Codeigniter, Symfony e Laravel, ecommerce com Magento.
 * Idiomas: português e inglês fluentes.
 
 __Dicas:__
